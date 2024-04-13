@@ -22,7 +22,7 @@ function mute(){
 
 function play(){
 
-    console.log("playing...")
+    console.log("G-Unit")
     
     audio.play();
 }
