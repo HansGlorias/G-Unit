@@ -1,12 +1,12 @@
 
 
 const audio = document.getElementById("audio");
-const gUnitButton = document.getElementById("gUnitButton")
+const gUnitButton = document.getElementById("gUnitButton");
 
 audio.src = "50 Cent - Disco Inferno.mp3";
 audio.volume = 0.05;
 
-gUnitButton.onclick = play
+gUnitButton.onclick = play;
 
 function mute(){
 
